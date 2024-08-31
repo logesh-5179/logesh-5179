@@ -1,5 +1,5 @@
 # 💫 About Me:
- Aspiring computer science student with a passion for problem<br>solving and coding. Currently pursuing a degree in Computer<br> Science with a focus on software development
+ Aspiring computer science student with a passion for problem solving and coding. Currently pursuing a degree in Computer Science with a focus on software development
 
 
 ## 🌐 Socials:
